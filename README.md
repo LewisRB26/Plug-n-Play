@@ -8,7 +8,7 @@ A version v1.1.0 is required to add a updater so the updater will be coming out 
 
 **Below:** Plug n Play home screen
 
-<img width="590" height="1278" alt="IMG_6631" src="https://github.com/user-attachments/assets/aa96b489-ca70-40a2-a901-6fb7fac54c6e" />
+<img width="590" height="1278" alt="IMG_6631" src="https://github.com/LewisRB26/Plug-n-Play/releases/download/v1.2.0/IMG_6674.PNG" />
 
 
 ## How do I make a º?
