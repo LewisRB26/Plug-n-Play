@@ -4,7 +4,6 @@ Plug n Play is a module launcher that allows you to install and run custom modul
 
 Plug n Play allows you to automatically run shortcuts from “Run Modules” and install from “Install Toggles”, you can also look at RoutineHub to see if there are any that you like. As of right now, the only 2 modules that are currently featured are ClipEdit and File Escape.   
 If you have feedback or have a module that you want featured in “Install Modules”, use the “Feedback/Request” button.   
-A version v1.1.0 is required to add a updater so the updater will be coming out in v1.1.0 and most likely powered by Swing Updater.
 
 **Below:** Plug n Play home screen
 
@@ -32,7 +31,7 @@ This process is also very straight forward:
 5. Either delete the “otherwise” box or put a “nothing” action into the otherwise box  
 **Note:** Do Not change Plug n Plays name at all (as in the shortcut title) because the modules may break.
 
-**Below:** Visual version of Plug n Play compatability layer with Quick Menu v2.4.0
+**Below:** Visual version of Plug n Play compatability layer with Quick Menu v2.5.2
 
 ![IMG_6633](https://github.com/user-attachments/assets/562f2aac-79b1-4a3f-9f31-8d9d3889d3b2)
 
