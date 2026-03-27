@@ -5,10 +5,9 @@ Plug n Play is a module launcher that allows you to install and run custom modul
 Plug n Play allows you to automatically run shortcuts from “Run Modules” and install from “Install Toggles”, you can also look at RoutineHub to see if there are any that you like. As of right now, the only 2 modules that are currently featured are ClipEdit and File Escape.   
 If you have feedback or have a module that you want featured in “Install Modules”, use the “Feedback/Request” button.   
 
-**Below:** Plug n Play home screen
+(**Left:** PnP Module Market | **Middle:** PnP Launch Screen | **Right:** Run Modules Menu)
 
-<img width="590" height="1278" alt="IMG_6631" src="https://github.com/LewisRB26/Plug-n-Play/releases/download/v1.2.0/IMG_6674.PNG" />
-
+<img width="4077" height="2736" alt="IMG_7204" src="https://github.com/user-attachments/assets/88a35da0-fbda-4b55-b121-54ddaad04c48" />
 
 ## How do I make a º?
 
